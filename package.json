@@ -1,0 +1,19 @@
+{
+  "name": "character-generator",
+  "version": "1.0.0",
+  "description": "generate character template for creativity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcanard/character-creator.git"
+  },
+  "author": "J.Meunier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcanard/character-creator/issues"
+  },
+  "homepage": "https://github.com/jcanard/character-creator#readme"
+}
